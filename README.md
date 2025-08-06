@@ -59,9 +59,7 @@ run_generate_random_circuits.sh
 Evaluate circuits with various training-free proxy metrics:
 
 ```bash
-cd calculating_proxy
-run_calculating_proxy.sh
-cd ..
+./calculating_proxy/run_calculating_proxy.sh
 ```
 
 Computed proxies include:
